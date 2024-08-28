@@ -4,6 +4,9 @@
     "name": "My Favorite Color",
     "description": "A Template to remind you of your favorite color",
     "documentationURL": "https://github.com/devcontainers/template-starter/tree/main/src/color",
+    "optionalPaths": [
+        "GETTING-STARTED.md"
+    ],
     "licenseURL": "https://github.com/devcontainers/template-starter/blob/main/LICENSE",
     "options": {
         "imageVariant": {
@@ -23,7 +26,7 @@
                 "gold",
                 "green"
             ],
-            "default": "red"
+            "default": "green"
         }
     },
     "platforms": [
